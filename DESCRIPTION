@@ -1,11 +1,15 @@
 Package: urbanwash
 Type: Package
-Title: What the Package Does (Title Case)
-Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Title: Urban Water and Sanitation Survey Dataset
+Version: 0.0.9000
+Authors@R: c(
+    person("Ernest", "Guevarra", , "ernestgmd@gmail.com", c("aut", "cre")),
+    person("Valid International", role = "cph"),
+    person("Water and Sanitation for the Urban Poor", role = "cph")
+    )
+Maintainer: Ernest Guevarra <ernestgmd@gmail.com>
+Description: Water and sanitation survey dataset collected by Water and
+    Sanitation for the Urban Poor (WSUP) in various operational cities.
+License: AGPL-3.0
 Encoding: UTF-8
 LazyData: true
