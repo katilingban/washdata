@@ -4,7 +4,7 @@
 \name{surveyDataBGD}
 \alias{surveyDataBGD}
 \title{WASH Survey Data - Dhaka, Bangladesh}
-\format{A data frame with multipe variables.}
+\format{An object of class \code{data.frame} with 1282 rows and 218 columns.}
 \usage{
 surveyDataBGD
 }
