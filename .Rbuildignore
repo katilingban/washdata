@@ -1,11 +1,8 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
 ^data-raw$
-<<<<<<< HEAD
-=======
 ^cran-comments\.md$
 ^\.travis\.yml$
 ^revdep$
->>>>>>> 6289e8a9db3c88f27c4a37aa6b56d40f7745f8fd
 ^appveyor\.yml$
-_config.yml
+^_config\.yml$
