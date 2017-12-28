@@ -1,4 +1,4 @@
-# urbanwash
+# washdata - Urban Water and Sanitation Survey Dataset
 
 [![Travis](https://img.shields.io/travis/validmeasures/washdata.svg)](https://travis-ci.org/validmeasures/washdata)
 [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/validmeasures/washdata?branch=master&svg=true)](https://ci.appveyor.com/project/validmeasures/washdata)
@@ -18,8 +18,9 @@ This package contains four datasets from an urban water and sanitation survey in
 
 * `indicatorsDataBGD :` Dataset produced from `surveyDataBGD` by calculating relevant indicators on water, sanitation and hygiene as specified and defined by [Water and Sanitaiton for the Urban Poor](https://www.wsup.com)
 
+<br/>
 
-# Installation
+## Installation
 
 ```R
 # Install the development version from GitHub
