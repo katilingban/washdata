@@ -114,6 +114,10 @@ ppiMatrixBGD <- data.frame(score, nl, nu100, nu150, nu200, extreme,
 #
 #
 #
+write.csv(ppiMatrixBGD, file = "data-raw/ppiMatrixBGD.csv", row.names = FALSE)
+#
+#
+#
 devtools::use_data(ppiMatrixBGD, overwrite = TRUE)
 #
 # Clean-up

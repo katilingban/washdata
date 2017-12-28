@@ -3,12 +3,12 @@
 \docType{data}
 \name{surveyDataBGD}
 \alias{surveyDataBGD}
-\title{WASH Survey Data - Dhaka, Bangladesh}
-\format{An object of class \code{data.frame} with 1282 rows and 218 columns.}
+\title{WASH Survey Raw Data for Dhaka, Bangladesh}
+\format{A data frame with 218 variables and 1282 entries}
 \usage{
 surveyDataBGD
 }
 \description{
-WASH survey data collected by WSUP in Dhaka, Bangladesh using
+WASH survey raw data collected by WSUP in Dhaka, Bangladesh
 }
 \keyword{datasets}

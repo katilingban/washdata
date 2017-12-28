@@ -3,9 +3,9 @@
 \docType{data}
 \name{popBGD}
 \alias{popBGD}
-\title{Population Data - Dhaka, Bangladesh}
+\title{Population Data for Dhaka, Bangladesh}
 \format{A data frame with four variables: \code{psu}, \code{zone},
-  \code{type}, \code{pop}.}
+  \code{type}, \code{pop}}
 \usage{
 popBGD
 }
