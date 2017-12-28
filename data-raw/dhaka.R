@@ -70,7 +70,10 @@ varList <- c("deployment", "enumerator", "status", "responseCode",
 # Rename surveyDataX data.frame using the variable code list created
 #
 names(surveyDataX) <- varList
-
+#
+# Remove household identifiers
+#
+surveyDataX <- subset(surveyDataX, select = -houseIdentifiers)
 
 ################################################################################
 #
