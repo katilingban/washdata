@@ -1,6 +1,7 @@
 # washdata - Urban Water and Sanitation Survey Dataset
 
-[![GitHub top language](https://img.shields.io/github/languages/top/validmeasures/washdata.svg)]()
+[![GitHub top language](https://img.shields.io/github/languages/top/validmeasures/washdata.svg)][![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fvalidmeasures%2Fwashdata.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fvalidmeasures%2Fwashdata?ref=badge_shield)
+()
 [![GitHub release](https://img.shields.io/github/release/validmeasures/washdata.svg)](https://github.com/validmeasures/washdata/blob/master/NEWS.md)
 [![Travis](https://img.shields.io/travis/validmeasures/washdata.svg?branch=master)](https://travis-ci.org/validmeasures/washdata)
 [![Build status](https://ci.appveyor.com/api/projects/status/outyoi6bw8yqi0p1?svg=true)](https://ci.appveyor.com/project/ernestguevarra/washdata)
@@ -29,3 +30,7 @@ devtools::install_github("validmeasures/washdata")
 
 <br/>
 <br/>
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fvalidmeasures%2Fwashdata.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fvalidmeasures%2Fwashdata?ref=badge_large)
