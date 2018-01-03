@@ -1,9 +1,7 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
 ^data-raw$
-^cran-comments\.md$
 ^\.travis\.yml$
-^revdep$
 ^appveyor\.yml$
 ^_config\.yml$
 ^LICENSE\.md$
