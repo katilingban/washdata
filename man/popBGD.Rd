@@ -4,8 +4,13 @@
 \name{popBGD}
 \alias{popBGD}
 \title{Population Data for Dhaka, Bangladesh}
-\format{A data frame with four variables: \code{psu}, \code{zone},
-  \code{type}, \code{pop}}
+\format{A data frame with four variables:
+\describe{
+\item{\code{psu}}{primary sampling unit (PSU) ID}
+\item{\code{zone}}{survey enumeration area}
+\item{\code{type}}{slum (1) or non-slum (2)}
+\item{\code{pop}}{population}
+}}
 \usage{
 popBGD
 }
