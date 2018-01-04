@@ -6,3 +6,5 @@
 ^_config\.yml$
 ^LICENSE\.md$
 ^.gitattributes$
+^README\.md$
+^NEWS\.md$
