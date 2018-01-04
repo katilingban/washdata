@@ -7,4 +7,5 @@
 ^LICENSE\.md$
 ^.gitattributes$
 ^README\.md$
+^NEWS\.md$
 ^cran-comments\.md$
