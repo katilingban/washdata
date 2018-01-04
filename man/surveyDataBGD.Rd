@@ -34,8 +34,8 @@
 \item{\code{area1Time}}{Thana  Time Answered}
 \item{\code{area2}}{Ward}
 \item{\code{slum}}{Slum}
-\item{\code{gender}}{Respondent s gender}
-\item{\code{landOwnStatus}}{What is the respondent s land ownership status}
+\item{\code{gender}}{Respondent gender}
+\item{\code{landOwnStatus}}{What is the respondent land ownership status}
 \item{\code{nWomen}}{Number of adult women  aged 16 to  60}
 \item{\code{nMen}}{Number of adult men  aged 16 to  60}
 \item{\code{nOldWomen}}{Number of older women  aged _60}
@@ -119,8 +119,8 @@
 \item{\code{san14}}{Is main sanitation  facility a WSUP supported facility   Don t Know}
 \item{\code{san15}}{Is water available at the sanitation facility}
 \item{\code{san16}}{Is water available at the sanitation facility   Don t Know}
-\item{\code{san17}}{Are you satisfied with the status of the handwashing facilities at the sanitation facility}
-\item{\code{san18}}{Are you satisfied with the status of the handwashing facilities at the sanitation facility   Don t Know}
+\item{\code{san17}}{Are you satisfied with the status of the hand washing facilities at the sanitation facility}
+\item{\code{san18}}{Are you satisfied with the status of the hand washing facilities at the sanitation facility   Don t Know}
 \item{\code{san19}}{What would increase your satisfaction  1}
 \item{\code{san20}}{What would increase your satisfaction   Other  please specify     specify}
 \item{\code{san21}}{What would increase your satisfaction   Don t Know  1}
@@ -133,8 +133,8 @@
 \item{\code{san28}}{The last time your youngest child passed stools  what was done to dispose of the stools}
 \item{\code{san29}}{The last time your youngest child passed stools  what was done to dispose of the stools   Not Applicable}
 \item{\code{san30}}{The last time your youngest child passed stools  what was done to dispose of the stools   Don t Know}
-\item{\code{san31}}{How long does it take to go there  que for the toilet  if applicable  and come back}
-\item{\code{san32}}{How long does it take to go there  que for the toilet  if applicable  and come back   Don t Know}
+\item{\code{san31}}{How long does it take to go there  queue for the toilet  if applicable  and come back}
+\item{\code{san32}}{How long does it take to go there  queue for the toilet  if applicable  and come back   Don t Know}
 \item{\code{san33}}{Typical amount of money spent on the main sanitation facility per week  magnitude}
 \item{\code{san34}}{Typical amount of money spent on the main sanitation facility per week  units}
 \item{\code{san35}}{Typical amount of money spent on the main sanitation facility per week  Don t Know}
@@ -161,8 +161,8 @@
 \item{\code{san56}}{Why not}
 \item{\code{san57}}{Why not   Other  please specify     specify}
 \item{\code{san58}}{Why not   Don t Know}
-\item{\code{san59}}{Do all household members usually use the available sanitation facilties}
-\item{\code{san60}}{Do all household members usually use the available sanitation facilties   Don t Know}
+\item{\code{san59}}{Do all household members usually use the available sanitation facilities}
+\item{\code{san60}}{Do all household members usually use the available sanitation facilities   Don t Know}
 \item{\code{san61}}{Who is not using them  1}
 \item{\code{san62}}{Who is not using them   Other  please specify     specify 1}
 \item{\code{san63}}{Who is not using them   Don t Know  1}
@@ -221,8 +221,8 @@
 \item{\code{ppi7}}{How many fans does the household own}
 \item{\code{ppi8}}{How many mobile phones does the household own}
 \item{\code{ppi9}}{Does the household own any bicycles  motorcycle scooters  or motor cars etc}
-\item{\code{ppi10}}{Does the household own  or rent sharecrop mortgage in or out  51 or more decimals of cultivable agricultural land  excluding uncultivable land and dwellinghouse homestead land}
-\item{\code{ppi11}}{Does the household own  or rent sharecrop mortgage in or out  51 or more decimals of cultivable agricultural land  excluding uncultivable land and dwellinghouse homestead land    Time Answered}
+\item{\code{ppi10}}{Does the household own  or rent sharecrop mortgage in or out  51 or more decimals of cultivable agricultural land  excluding uncultivable land and dwelling house homestead land}
+\item{\code{ppi11}}{Does the household own  or rent sharecrop mortgage in or out  51 or more decimals of cultivable agricultural land  excluding uncultivable land and dwelling house homestead land    Time Answered}
 }}
 \usage{
 surveyDataBGD
