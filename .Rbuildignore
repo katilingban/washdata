@@ -5,3 +5,4 @@
 ^appveyor\.yml$
 ^_config\.yml$
 ^LICENSE\.md$
+^.gitattributes$
