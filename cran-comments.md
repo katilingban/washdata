@@ -1,3 +1,8 @@
+## Resubmission
+This is a resubmission. In this version, I have added further information
+about the urban water and sanitation surveys specifically country, year and
+aim of survey.
+
 ## Test environments
 * local OS X install, R 3.4.3
 * ubuntu 12.04 (on travis-ci), R 3.4.3
@@ -13,4 +18,3 @@
 
 ## Reverse dependencies
 This is a new release, so there are no reverse/downstream dependencies.
-

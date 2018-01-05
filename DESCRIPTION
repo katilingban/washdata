@@ -1,14 +1,26 @@
 Package: washdata
 Type: Package
 Title: Urban Water and Sanitation Survey Dataset
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: c(
     person("Ernest", "Guevarra", email = "ernestgmd@gmail.com", role =  c("aut", "cre")),
     person("Valid International", "office@validinternational.org", email = "", role = "cph"),
     person("Water and Sanitation for the Urban Poor", "", email = "", role = "cph")
   )
-Description: Water and sanitation survey dataset collected by Water and
-    Sanitation for the Urban Poor (WSUP) in various operational cities.
+Description: Urban water and sanitation survey dataset collected by Water and
+    Sanitation for the Urban Poor (WSUP) with technical support from 
+    Valid International. These citywide surveys have been collecting data 
+    allowing water and sanitation service levels across the entire city to be 
+    characterised, while also allowing more detailed data to be collected in 
+    areas of the city of particular interest. These surveys are intended to 
+    generate useful information for others working in the water and sanitation
+    sector. Current release version includes datasets collected from a survey 
+    conducted in Dhaka, Bangladesh in March 2017. This survey inDhaka is one of 
+    a series of surveys to be conducted by WSUP in various 
+    cities in which they operate including Accra, Ghana; Nakuru, Kenya; 
+    Antananarivo, Madagascar; Maputo, Mozambique; and, Lusaka, Zambia. This 
+    package will be updated once the surveys in other cities are completed and 
+    datasets have been made available.
 Depends: R (>= 2.10)
 Suggests: knitr,
     rmarkdown
