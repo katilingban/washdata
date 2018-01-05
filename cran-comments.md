@@ -1,5 +1,5 @@
 ## Resubmission - 5 January 2017
-This is a resubmissino. In this version, I have updated the invalid URL noted
+This is a resubmission. In this version, I have updated the invalid URL noted
 on checks. Whilst the original URL is the recommended URL by the site, it
 fails at times to re-direct to the appropriate site hence the message. I have
 updated this to the actual working URL. This URL has been checked multiple
