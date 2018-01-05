@@ -1,6 +1,6 @@
 # washdata - Urban Water and Sanitation Survey Dataset
 
-[![GitHub top language](https://img.shields.io/github/languages/top/validmeasures/washdata.svg)]
+[![GitHub top language](https://img.shields.io/github/languages/top/validmeasures/washdata.svg)](https://github.com/validmeasures/washdata/search?l=r)
 [![GitHub release](https://img.shields.io/github/release/validmeasures/washdata.svg)](https://github.com/validmeasures/washdata/blob/master/NEWS.md)
 [![Travis](https://img.shields.io/travis/validmeasures/washdata.svg?branch=master)](https://travis-ci.org/validmeasures/washdata)
 [![Build status](https://ci.appveyor.com/api/projects/status/outyoi6bw8yqi0p1?svg=true)](https://ci.appveyor.com/project/ernestguevarra/washdata)
