@@ -10,7 +10,7 @@
 
 This package contains four datasets from an urban water and sanitation survey in Dhaka, Bangladesh conducted by [Water and Sanitation for the Urban Poor](https://www.wsup.com) with technical support from [Valid International](http://www.validinternational.com) in March 2017.
 
-* `popBGD:` Dataset on estimated population of each primary sampling unit (PSU) that were surveyed. This dataset is a mix of data from WorldPop (<http://www.worldpop.org.uk> for the non-slum areas and from the 2014 Bangladesh Census of Slum Areas and Floating Population (<http://dataspace.princeton.edu/jspui/bitstream/88435/dsp01wm117r42q/1/DSBangladesh2014slum.pdf>)
+* `popBGD:` Dataset on estimated population of each primary sampling unit (PSU) that were surveyed. This dataset is a mix of data from WorldPop (<http://www.worldpop.org.uk> for the non-slum areas and from the 2014 Bangladesh Census of Slum Areas and Floating Population (<http://203.112.218.65:8008/PageWebMenuContent.aspx?MenuKey=423>)
 
 * `ppiMatrixBGD:` Look-up table for calculating the Poverty Probability Index (previously called Progress out of Poverty Index) or PPI from Bangladesh-specific indicators collected from cross-sectional surveys. This look-up table is extracted from documentation of the PPI found at <https://www.povertyindex.org>
 
