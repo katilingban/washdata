@@ -1,7 +1,7 @@
 Package: washdata
 Type: Package
 Title: Urban Water and Sanitation Survey Dataset
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: c(
     person("Ernest", "Guevarra", email = "ernestgmd@gmail.com", role =  c("aut", "cre")),
     person("Valid International", "office@validinternational.org", email = "", role = "cph"),
@@ -15,8 +15,8 @@ Description: Urban water and sanitation survey dataset collected by Water and
     areas of the city of particular interest. These surveys are intended to 
     generate useful information for others working in the water and sanitation
     sector. Current release version includes datasets collected from a survey 
-    conducted in Dhaka, Bangladesh in March 2017. This survey inDhaka is one of 
-    a series of surveys to be conducted by WSUP in various 
+    conducted in Dhaka, Bangladesh in March 2017. This survey in Dhaka is one of 
+    a series of surveys to be conducted by WSUP in various
     cities in which they operate including Accra, Ghana; Nakuru, Kenya; 
     Antananarivo, Madagascar; Maputo, Mozambique; and, Lusaka, Zambia. This 
     package will be updated once the surveys in other cities are completed and 

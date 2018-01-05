@@ -1,4 +1,11 @@
-## Resubmission
+## Resubmission - 5 January 2017
+This is a resubmission. In this version, I have updated the invalid URL noted
+on checks. Whilst the original URL is the recommended URL by the site, it
+fails at times to re-direct to the appropriate site hence the message. I have
+updated this to the actual working URL. This URL has been checked multiple
+times since comments made and URL has kept on working.
+
+## Resubmission - 4 January 2017
 This is a resubmission. In this version, I have added further information
 about the urban water and sanitation surveys specifically country, year and
 aim of survey.
