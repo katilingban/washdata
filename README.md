@@ -1,12 +1,11 @@
 # washdata - Urban Water and Sanitation Survey Dataset
 
 [![GitHub top language](https://img.shields.io/github/languages/top/validmeasures/washdata.svg)](https://github.com/validmeasures/washdata/search?l=r)
-[![GitHub release](https://img.shields.io/github/release/validmeasures/washdata.svg)](https://github.com/validmeasures/washdata/blob/master/NEWS.md)
+[![CRAN](https://img.shields.io/cran/v/washdata.svg)](https://CRAN.R-project.org/package=washdata)
+[![CRAN](https://img.shields.io/cran/l/washdata.svg)](https://github.com/validmeasures/washdata/blob/master/LICENSE.md)
 [![Travis](https://img.shields.io/travis/validmeasures/washdata.svg?branch=master)](https://travis-ci.org/validmeasures/washdata)
 [![Build status](https://ci.appveyor.com/api/projects/status/outyoi6bw8yqi0p1?svg=true)](https://ci.appveyor.com/project/ernestguevarra/washdata)
-[![Github All Releases](https://img.shields.io/github/downloads/validmeasures/washdata/latest/total.svg)](https://github.com/validmeasures/washdata/archive/master.zip)
-[![license](https://img.shields.io/github/license/validmeasures/washdata.svg)](https://github.com/validmeasures/washdata/blob/master/LICENSE.md)
-
+[![](http://cranlogs.r-pkg.org/badges/washdata)](http://cran.rstudio.com/web/packages/washdata/index.html)
 
 This package contains four datasets from an urban water and sanitation survey in Dhaka, Bangladesh conducted by [Water and Sanitation for the Urban Poor](https://www.wsup.com) with technical support from [Valid International](http://www.validinternational.com) in March 2017.
 
@@ -24,10 +23,16 @@ This survey in Dhaka is one of a series of surveys to be conducted by [WSUP](htt
 
 ## Installation
 
-The package has been submitted for inclusion in the `CRAN` repository and is currently under review. Development version of the package is via GitHub:
+To install the package, type the following in R:
 
 ```R
-# Install the development version from GitHub
+install.packages("washdata")
+library(washdata)
+```
+
+Install development version of the package via GitHub:
+
+```R
 devtools::install_github("validmeasures/washdata")
 library(washdata)
 ```
