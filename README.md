@@ -1,4 +1,4 @@
-# washdata - Urban Water and Sanitation Survey Dataset
+# `washdata`: Urban Water and Sanitation Survey Dataset
 
 [![CRAN](https://img.shields.io/cran/v/washdata.svg)](https://CRAN.R-project.org/package=washdata)
 [![CRAN](https://img.shields.io/cran/l/washdata.svg)](https://github.com/validmeasures/washdata/blob/master/LICENSE.md)
