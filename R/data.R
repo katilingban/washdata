@@ -3,7 +3,7 @@
 #' See the README at
 #' \href{https://github.com/validmeasures/washdata#readme}{GitHub}
 #'
-#' @docType package
+#' @docType data
 #' @name washdata
 NULL
 

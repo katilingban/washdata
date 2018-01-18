@@ -1,14 +1,6 @@
-## Resubmission - 5 January 2017
-This is a resubmission. In this version, I have updated the invalid URL noted
-on checks. Whilst the original URL is the recommended URL by the site, it
-fails at times to re-direct to the appropriate site hence the message. I have
-updated this to the actual working URL. This URL has been checked multiple
-times since comments made and URL has kept on working.
-
-## Resubmission - 4 January 2017
-This is a resubmission. In this version, I have added further information
-about the urban water and sanitation surveys specifically country, year and
-aim of survey.
+## Release summary
+This is the second release of `washdata`. It adds data from [ADD COUNTRY/IES]
+and improves dataset documentation and vignettes.
 
 ## Test environments
 * local OS X install, R 3.4.3
@@ -18,10 +10,10 @@ aim of survey.
 * windows (on appveyor), R 3.4.3
 
 ## R CMD check results
+0 errors | 0 warnings | 0 notes
 
-0 errors | 0 warnings | 1 note
+There was a message about possibly mis-spelled words in [SECTIONS]:
 
-* This is a new release.
-
-## Reverse dependencies
-This is a new release, so there are no reverse/downstream dependencies.
+## Downstream dependencies
+I ran R CMD check on the downstream dependencies (results at ...) and there
+were no problems related to `washdata`.
