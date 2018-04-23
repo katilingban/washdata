@@ -10,3 +10,4 @@
 ^revdep$
 ^\.github$
 ^docs$
+^netlify\.toml$
