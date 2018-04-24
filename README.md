@@ -2,7 +2,7 @@
 
 [![CRAN](https://img.shields.io/cran/v/washdata.svg)](https://CRAN.R-project.org/package=washdata)
 [![CRAN](https://img.shields.io/cran/l/washdata.svg)](https://github.com/validmeasures/washdata/blob/master/LICENSE.md)
-[![CRAN](http://cranlogs.r-pkg.org/badges/washdata)](http://cran.rstudio.com/web/packages/washdata/index.html)
+[![CRAN](http://cranlogs.r-pkg.org/badges/grand-total/washdata)](http://cran.rstudio.com/web/packages/washdata/index.html)
 [![Travis](https://img.shields.io/travis/validmeasures/washdata.svg?branch=master)](https://travis-ci.org/validmeasures/washdata)
 [![Build status](https://ci.appveyor.com/api/projects/status/outyoi6bw8yqi0p1?svg=true)](https://ci.appveyor.com/project/ernestguevarra/washdata)
 
