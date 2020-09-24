@@ -4,8 +4,11 @@ url: https://katilingban.io/washdata
 
 template:
   params:
-    bootswatch: sandstone
+    bootswatch: cerulean
     #ganalytics: UA-102485058-4
+
+navbar:
+  type: inverse
 
 reference:
 - title: Description
