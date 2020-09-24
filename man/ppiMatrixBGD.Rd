@@ -4,11 +4,17 @@
 \name{ppiMatrixBGD}
 \alias{ppiMatrixBGD}
 \title{PPI Look-up Table for Bangladesh}
-\format{A data frame with 10 variables and 101 entries}
+\format{
+A data frame with 10 variables and 101 entries
+}
 \usage{
 ppiMatrixBGD
 }
 \description{
 PPI look-up table for Bangladesh to calculate PPI score
+}
+\examples{
+ppiMatrixBGD
+
 }
 \keyword{datasets}

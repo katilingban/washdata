@@ -4,11 +4,17 @@
 \name{indicatorsDataBGD}
 \alias{indicatorsDataBGD}
 \title{WASH Survey Indicators Data for Dhaka, Bangladesh}
-\format{A data frame with 162 variables and 1282 entries}
+\format{
+A data frame with 162 variables and 1282 entries
+}
 \usage{
 indicatorsDataBGD
 }
 \description{
 WASH survey indicators data calculated from survey raw data
+}
+\examples{
+indicatorsDataBGD
+
 }
 \keyword{datasets}
