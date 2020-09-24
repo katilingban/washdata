@@ -1,0 +1,20 @@
+title: washdata
+
+url: https://katilingban.io/washdata
+
+template:
+  params:
+    bootswatch: sandstone
+    #ganalytics: UA-102485058-4
+
+reference:
+- title: Description
+  contents:
+  - washdata
+
+- title: Datasets
+  contents:
+  - popBGD
+  - ppiMatrixBGD
+  - surveyDataBGD
+  - indicatorsDataBGD
