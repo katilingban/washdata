@@ -4,7 +4,8 @@
 \name{surveyDataBGD}
 \alias{surveyDataBGD}
 \title{WASH Survey Raw Data for Dhaka, Bangladesh}
-\format{A data frame with 217 variables and 1282 entries:
+\format{
+A data frame with 217 variables and 1282 entries:
 \describe{
 \item{\code{country}}{Country}
 \item{\code{ccode}}{Country Code}
@@ -223,11 +224,16 @@
 \item{\code{ppi9}}{Does the household own any bicycles  motorcycle scooters  or motor cars etc}
 \item{\code{ppi10}}{Does the household own  or rent sharecrop mortgage in or out  51 or more decimals of cultivable agricultural land  excluding uncultivable land and dwelling house homestead land}
 \item{\code{ppi11}}{Does the household own  or rent sharecrop mortgage in or out  51 or more decimals of cultivable agricultural land  excluding uncultivable land and dwelling house homestead land    Time Answered}
-}}
+}
+}
 \usage{
 surveyDataBGD
 }
 \description{
 WASH survey raw data collected by WSUP in Dhaka, Bangladesh
+}
+\examples{
+surveyDataBGD
+
 }
 \keyword{datasets}

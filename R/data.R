@@ -3,11 +3,14 @@
 #' Urban Water and Sanitation Survey Dataset
 #'
 #' See the README at
-#' \href{https://github.com/validmeasures/washdata#readme}{GitHub}
+#' \href{https://github.com/katilingban/washdata#readme}{GitHub}
 #'
 #' @docType data
 #' @name washdata
-NULL
+#' @keywords internal
+#'
+#
+"_PACKAGE"
 
 ################################################################################
 #
@@ -22,6 +25,10 @@ NULL
 #' \item{\code{type}}{slum (1) or non-slum (2)}
 #' \item{\code{pop}}{population}
 #' }
+#'
+#' @examples
+#' popBGD
+#
 "popBGD"
 
 ################################################################################
@@ -250,6 +257,11 @@ NULL
 #' \item{\code{ppi10}}{Does the household own  or rent sharecrop mortgage in or out  51 or more decimals of cultivable agricultural land  excluding uncultivable land and dwelling house homestead land}
 #' \item{\code{ppi11}}{Does the household own  or rent sharecrop mortgage in or out  51 or more decimals of cultivable agricultural land  excluding uncultivable land and dwelling house homestead land    Time Answered}
 #' }
+#'
+#' @examples
+#' surveyDataBGD
+#'
+#
 "surveyDataBGD"
 
 ################################################################################
@@ -259,6 +271,11 @@ NULL
 #' WASH survey indicators data calculated from survey raw data
 #'
 #' @format A data frame with 162 variables and 1282 entries
+#'
+#' @examples
+#' indicatorsDataBGD
+#'
+#
 "indicatorsDataBGD"
 
 ################################################################################
@@ -268,5 +285,9 @@ NULL
 #' PPI look-up table for Bangladesh to calculate PPI score
 #'
 #' @format A data frame with 10 variables and 101 entries
+#'
+#' @examples
+#' ppiMatrixBGD
+#'
 "ppiMatrixBGD"
 

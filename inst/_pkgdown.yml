@@ -1,0 +1,23 @@
+title: washdata
+
+url: https://katilingban.io/washdata
+
+template:
+  params:
+    bootswatch: cerulean
+    #ganalytics: UA-102485058-4
+
+navbar:
+  type: inverse
+
+reference:
+- title: Description
+  contents:
+  - washdata
+
+- title: Datasets
+  contents:
+  - popBGD
+  - ppiMatrixBGD
+  - surveyDataBGD
+  - indicatorsDataBGD

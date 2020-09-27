@@ -1,11 +1,11 @@
 # washdata: Urban Water and Sanitation Survey Dataset <img src="man/figures/washdata.png" width="200" align="right" />
 
 [![CRAN](https://img.shields.io/cran/v/washdata.svg)](https://CRAN.R-project.org/package=washdata)
-[![CRAN](https://img.shields.io/cran/l/washdata.svg)](https://github.com/validmeasures/washdata/blob/master/LICENSE.md)
+[![CRAN](https://img.shields.io/cran/l/washdata.svg)](https://github.com/katilingban/washdata/blob/master/LICENSE.md)
 [![CRAN](http://cranlogs.r-pkg.org/badges/washdata)](http://cran.rstudio.com/web/packages/washdata/index.html)
 [![CRAN](http://cranlogs.r-pkg.org/badges/grand-total/washdata)](http://cran.rstudio.com/web/packages/washdata/index.html)
-[![Travis](https://img.shields.io/travis/validmeasures/washdata.svg?branch=master)](https://travis-ci.org/validmeasures/washdata)
-[![Build status](https://ci.appveyor.com/api/projects/status/outyoi6bw8yqi0p1?svg=true)](https://ci.appveyor.com/project/ernestguevarra/washdata)
+[![Travis](https://img.shields.io/travis/katilingban/washdata.svg?branch=master)](https://travis-ci.org/katilingban/washdata)
+[![Build status](https://ci.appveyor.com/api/projects/status/outyoi6bw8yqi0p1?svg=true)](https://ci.appveyor.com/project/katilingban/washdata)
 
 
 This package contains four datasets from an urban water and sanitation survey in Dhaka, Bangladesh conducted by [Water and Sanitation for the Urban Poor](https://www.wsup.com) with technical support from [Valid International](http://www.validinternational.com) in March 2017.
@@ -34,6 +34,6 @@ library(washdata)
 Install development version of the package via GitHub:
 
 ```R
-devtools::install_github("validmeasures/washdata")
+remotes::install_github("katilingban/washdata")
 library(washdata)
 ```

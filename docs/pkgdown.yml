@@ -1,9 +1,10 @@
-pandoc: 2.0.4
-pkgdown: 1.1.0
+pandoc: 2.7.3
+pkgdown: 1.6.1
 pkgdown_sha: ~
 articles:
   washdata: washdata.html
+last_built: 2020-09-24T23:56Z
 urls:
-  reference: https://validmeasures.org/washdata/reference
-  article: https://validmeasures.org/washdata/articles
+  reference: https://katilingban.io/washdata/reference
+  article: https://katilingban.io/washdata/articles
 

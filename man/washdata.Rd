@@ -3,8 +3,28 @@
 \docType{data}
 \name{washdata}
 \alias{washdata}
+\alias{washdata-package}
 \title{Urban Water and Sanitation Survey Dataset}
 \description{
 See the README at
-\href{https://github.com/validmeasures/washdata#readme}{GitHub}
+\href{https://github.com/katilingban/washdata#readme}{GitHub}
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/katilingban/washdata/}
+  \item Report bugs at \url{https://github.com/katilingban/washdata/issues}
+}
+
+}
+\author{
+\strong{Maintainer}: Ernest Guevarra \email{ernestgmd@gmail.com}
+
+Other contributors:
+\itemize{
+  \item Valid International \email{office@validinternational.org} [copyright holder]
+  \item Water and Sanitation for the Urban Poor [copyright holder]
+}
+
+}
+\keyword{internal}
