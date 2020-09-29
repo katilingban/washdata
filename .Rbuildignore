@@ -11,3 +11,4 @@
 ^\.github$
 ^docs$
 ^netlify\.toml$
+^CRAN-RELEASE$
