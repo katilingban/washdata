@@ -3,7 +3,7 @@ pkgdown: 1.6.1
 pkgdown_sha: ~
 articles:
   washdata: washdata.html
-last_built: 2020-09-29T11:21Z
+last_built: 2020-09-29T11:29Z
 urls:
   reference: https://katilingban.io/washdata/reference
   article: https://katilingban.io/washdata/articles
