@@ -12,3 +12,6 @@
 ^docs$
 ^netlify\.toml$
 ^CRAN-RELEASE$
+^README\.Rmd$
+^_pkgdown\.yml$
+^pkgdown$

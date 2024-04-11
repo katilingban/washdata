@@ -3,7 +3,6 @@
 \docType{data}
 \name{washdata}
 \alias{washdata}
-\alias{washdata-package}
 \title{Urban Water and Sanitation Survey Dataset}
 \description{
 See the README at
@@ -13,6 +12,7 @@ See the README at
 Useful links:
 \itemize{
   \item \url{https://github.com/katilingban/washdata/}
+  \item \url{https://katilingban.io/washdata/}
   \item Report bugs at \url{https://github.com/katilingban/washdata/issues}
 }
 
