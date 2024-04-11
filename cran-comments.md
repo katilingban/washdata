@@ -1,19 +1,15 @@
 ## Release summary
-This is the second release of `washdata`. It provides general documentation and
+This is the third release of `washdata`. It provides general documentation and
 formatting updates.
 
 ## Test environments
-* local OS X install, R 4.0.2
-* ubuntu 16.04.6 (on travis-ci), release, devel and oldrelease
-* local ubuntu 16.04 install, R 18.04.5
-* win-builder (devel, release and old release)
-* windows (on appveyor), x64 release, i386 release
-* github actions windows-latest, r: release
-* github actions macOS-latest, r: release
-* github actions ubuntu-20.04, r: release, devel
-* rhub windows-latest r devel
-* rhub ubuntu 16.04 r release
-* rhub fedora r devel
+* local ubuntu 22.04 install, R 4.3.3
+* macos-latest (on GitHub Actions), release
+* windows-latest (on GitHub Actions), release
+* ubuntu-latest (on GitHub Actions), release, devel, and oldrelease
+* mac-builder (release)
+* win-builder (devel, release, oldrelease)
+* rhub (windows-devel, fedora-devel, ubuntu-release)
 
 ## R CMD check results
 

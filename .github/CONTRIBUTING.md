@@ -1,45 +1,35 @@
-
 # Contributing
 
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with [Ernest Guevarra](mailto:ernest@validinternational.org) before making a change. 
+## Bugs
 
-Please note we have a [code of conduct](https://github.com/validmeasures/wash/blob/master/.github/CODE_OF_CONDUCT.md), please follow it in all your interactions with the project.
+* Submit an issue on the [issues page](https://github.com/katilingban/washdata/issues)
 
-<br/>
+## Code contributions
 
-## How to make a clean pull request
+* Fork this repository to your Github account
 
-* Create a personal fork of this project on Github.
+* Clone your version on your account down to your machine from your account
 
-* Clone the fork on your local machine. Your remote repo on Github is called `origin`.
+```
+git clone https://github.com/<yourgithubusername>/washdata.git
+```
 
-* Add the original repository as a remote called `upstream`.
+* Make sure to track progress upstream i.e., on our version of `washdata`
+at `katilingban/washdata`, by doing
 
-* If you created your fork a while ago be sure to pull upstream changes into your local repository.
+```
+git remote add upstream https://github.com/katilingban/washdata.git
+```
 
-* Create a new branch to work on! Branch from `development`.
+* Before making changes make sure to pull changes in from `upstream` by doing
+either `git fetch upstream` then merge later or `git pull upstream` to fetch
+and merge in one step
 
-* Implement/fix your feature, comment your code.
+* Make your changes on a new feature branch
 
-* Follow the code style of the project, including indentation.
+* Please write a test or tests for your changes if they affect code and not just
+documentation
 
-* Add or change the documentation as needed.
+* Push up changes to your account
 
-* Squash your commits into a single commit with git's [interactive rebase](https://help.github.com/articles/interactive-rebase). Create a new branch if necessary.
-
-* Push your branch to your fork on Github, the remote `origin`.
-
-* From your fork open a pull request in the correct branch using the specified [Pull Request Template](https://github.com/validmeasures/wash/blob/master/.github/PULL_REQUEST_TEMPLATE.md). Target this project's `development` branch. 
-
-* Update the `README.md` with details of changes to the interface particularly changes in how indicators are defined or addition of new indicators.
-
-* Increase the version numbers in any examples files and the `README.md` to the new version that this `Pull Request` would represent. The versioning scheme we use is [SemVer](http://semver.org/).
-
-* You may then request [Ernest Guevarra](mailto:ernest@validinternational.org) to merge your `Pull Request` for you.
-
-* Once the pull request is approved and merged you can pull the changes from `upstream` to your local repo and delete
-your extra branch(es).
-
-* And last but not least: Always write your commit messages in the present tense. Your commit message should describe what the commit, when applied, does to the code – not what you did to the code.
-
+* Submit a pull request at `katilingban/washdata`
