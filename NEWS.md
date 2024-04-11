@@ -1,3 +1,6 @@
+# washdata 0.1.4
+* general documentation and formatting updates
+
 # washdata 0.1.3
 * provided general documentation and formatting updates
 

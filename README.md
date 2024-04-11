@@ -45,20 +45,55 @@ Mozambique; and, Lusaka, Zambia. This package will be updated once the
 surveys in other cities are completed and datasets have been made
 available.
 
-<br/>
-
 ## Installation
 
-To install the package, type the following in R:
+To install the package, issue the following commands in R:
 
 ``` r
 install.packages("washdata")
-library(washdata)
 ```
 
 Install development version of the package via GitHub:
 
 ``` r
+# if (!require) remotes install.packages("remotes")
 remotes::install_github("katilingban/washdata")
-library(washdata)
 ```
+
+## Citation
+
+If you find the `washdata` package useful please cite using the
+suggested citation provided by a call to the `citation()` function as
+follows:
+
+``` r
+citation("washdata")
+#> To cite package 'washdata' in publications use:
+#> 
+#>   Guevarra E (2024). _washdata: Urban Water and Sanitation Survey
+#>   Dataset_. R package version 0.1.4, https://katilingban.io/washdata/,
+#>   <https://github.com/katilingban/washdata/>.
+#> 
+#> A BibTeX entry for LaTeX users is
+#> 
+#>   @Manual{,
+#>     title = {washdata: Urban Water and Sanitation Survey Dataset},
+#>     author = {Ernest Guevarra},
+#>     year = {2024},
+#>     note = {R package version 0.1.4, 
+#> https://katilingban.io/washdata/},
+#>     url = {https://github.com/katilingban/washdata/},
+#>   }
+```
+
+## Community guidelines
+
+Feedback, bug reports and feature requests are welcome; file issues or
+seek support [here](https://github.com/katilingban/washdata/issues). If
+you would like to contribute to the package, please see our
+[contributing
+guidelines](https://oxford-ihtm.io/washdata/CONTRIBUTING.html).
+
+This project is released with a [Contributor Code of
+Conduct](https://oxford-ihtm.io/washdata/CODE_OF_CONDUCT.html). By
+participating in this project you agree to abide by its terms.
