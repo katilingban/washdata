@@ -1,6 +1,6 @@
 Package: washdata
 Title: Urban Water and Sanitation Survey Dataset
-Version: 0.1.4
+Version: 0.1.4.9000
 Authors@R: c(
     person("Ernest", "Guevarra", email = "ernestgmd@gmail.com", role =  c("aut", "cre")),
     person("Valid International", "", email = "office@validinternational.org", role = "cph"),
