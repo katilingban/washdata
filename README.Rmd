@@ -16,11 +16,13 @@ knitr::opts_chunk$set(
 # washdata: Urban Water and Sanitation Survey Dataset <img src="man/figures/logo.png" width="200" align="right" />
 
 <!-- badges: start -->
-[![CRAN](https://img.shields.io/cran/v/washdata.svg)](https://cran.r-project.org/package=washdata)
+[![CRAN status](https://www.r-pkg.org/badges/version/micronutr)](https://CRAN.R-project.org/package=micronutr)
 [![CRAN](https://img.shields.io/cran/l/washdata.svg)](https://github.com/katilingban/washdata/blob/master/LICENSE.md)
 [![CRAN](http://cranlogs.r-pkg.org/badges/washdata)](https://cran.r-project.org/package=washdata)
 [![CRAN](http://cranlogs.r-pkg.org/badges/grand-total/washdata)](https://cran.r-project.org/package=washdata)
 [![R-CMD-check](https://github.com/katilingban/washdata/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/katilingban/washdata/actions/workflows/R-CMD-check.yaml)
+[![CodeFactor](https://www.codefactor.io/repository/github/katilingban/washdata/badge)](https://www.codefactor.io/repository/github/katilingban/washdata)
+[![DOI](https://zenodo.org/badge/115544360.svg)](https://zenodo.org/doi/10.5281/zenodo.4058889)
 <!-- badges: end -->
 
 This package contains four datasets from an urban water and sanitation survey in Dhaka, Bangladesh conducted by [Water and Sanitation for the Urban Poor](https://wsup.com) with technical support from [Valid International](http://www.validinternational.org) in March 2017.
