@@ -5,11 +5,14 @@
 
 <!-- badges: start -->
 
-[![CRAN](https://img.shields.io/cran/v/washdata.svg)](https://cran.r-project.org/package=washdata)
+[![CRAN
+status](https://www.r-pkg.org/badges/version/micronutr)](https://CRAN.R-project.org/package=micronutr)
 [![CRAN](https://img.shields.io/cran/l/washdata.svg)](https://github.com/katilingban/washdata/blob/master/LICENSE.md)
 [![CRAN](http://cranlogs.r-pkg.org/badges/washdata)](https://cran.r-project.org/package=washdata)
 [![CRAN](http://cranlogs.r-pkg.org/badges/grand-total/washdata)](https://cran.r-project.org/package=washdata)
 [![R-CMD-check](https://github.com/katilingban/washdata/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/katilingban/washdata/actions/workflows/R-CMD-check.yaml)
+[![CodeFactor](https://www.codefactor.io/repository/github/katilingban/washdata/badge)](https://www.codefactor.io/repository/github/katilingban/washdata)
+[![DOI](https://zenodo.org/badge/115544360.svg)](https://zenodo.org/doi/10.5281/zenodo.4058889)
 <!-- badges: end -->
 
 This package contains four datasets from an urban water and sanitation
@@ -66,21 +69,22 @@ follows:
 
 ``` r
 citation("washdata")
-#> To cite package 'washdata' in publications use:
+#> To cite washdata in publications use:
 #> 
-#>   Guevarra E (2024). _washdata: Urban Water and Sanitation Survey
-#>   Dataset_. R package version 0.1.4, https://katilingban.io/washdata/,
-#>   <https://github.com/katilingban/washdata/>.
+#>   Ernest Guevarra (2024). _washdata: Urban Water and Sanitation Survey
+#>   Dataset_. doi:10.5281/zenodo.4058890
+#>   <https://doi.org/10.5281/zenodo.4058890>, R package version 0.1.4,
+#>   <https://katilingban.io/washdata/>.
 #> 
 #> A BibTeX entry for LaTeX users is
 #> 
 #>   @Manual{,
 #>     title = {washdata: Urban Water and Sanitation Survey Dataset},
-#>     author = {Ernest Guevarra},
+#>     author = {{Ernest Guevarra}},
 #>     year = {2024},
-#>     note = {R package version 0.1.4, 
-#> https://katilingban.io/washdata/},
-#>     url = {https://github.com/katilingban/washdata/},
+#>     note = {R package version 0.1.4},
+#>     url = {https://katilingban.io/washdata/},
+#>     doi = {10.5281/zenodo.4058890},
 #>   }
 ```
 
