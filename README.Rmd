@@ -16,7 +16,7 @@ knitr::opts_chunk$set(
 # washdata: Urban Water and Sanitation Survey Dataset <img src="man/figures/logo.png" width="200" align="right" />
 
 <!-- badges: start -->
-[![CRAN status](https://www.r-pkg.org/badges/version/micronutr)](https://CRAN.R-project.org/package=micronutr)
+[![CRAN status](https://www.r-pkg.org/badges/version/washdata)](https://CRAN.R-project.org/package=washdata)
 [![CRAN](https://img.shields.io/cran/l/washdata.svg)](https://github.com/katilingban/washdata/blob/master/LICENSE.md)
 [![CRAN](http://cranlogs.r-pkg.org/badges/washdata)](https://cran.r-project.org/package=washdata)
 [![CRAN](http://cranlogs.r-pkg.org/badges/grand-total/washdata)](https://cran.r-project.org/package=washdata)
