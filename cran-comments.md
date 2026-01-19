@@ -20,19 +20,9 @@ This is the fourth release of `washdata`. It provides general maintenance and up
 
 0 errors | 0 warnings | 0 notes
 
-### win-builder checks - devel and release
+### win-builder checks
 
 0 errors | 0 warnings | 0 notes
-
-### win-builder checks - old release
-
-0 errors | 0 warnings | 1 note
-
-Author field differs from that derived from Authors@R     
-  Author:    'Ernest Guevarra [aut, cre] (ORCID: <https://orcid.org/0000-0002-4887-4415>)'     
-  Authors@R: 'Ernest Guevarra [aut, cre] (<https://orcid.org/0000-0002-4887-4415>)'     
-
-Both ORCID information are the same but formatted differently.
 
 ### GitHub Actions checks
 
