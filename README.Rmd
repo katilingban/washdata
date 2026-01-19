@@ -20,7 +20,7 @@ knitr::opts_chunk$set(
 [![Lifecycle: stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
 [![CRAN status](https://www.r-pkg.org/badges/version/washdata)](https://CRAN.R-project.org/package=washdata)
 [![cran checks](https://badges.cranchecks.info/worst/washdata.svg)](https://cran.r-project.org/web/checks/check_results_washdata.html)
-[![CRAN](https://img.shields.io/cran/l/washdata.svg)](https://github.com/katilingban/washdata/blob/master/LICENSE.md)
+[![CRAN](https://img.shields.io/cran/l/washdata.svg)](https://github.com/katilingban/washdata/blob/main/LICENSE.md)
 [![CRAN](http://cranlogs.r-pkg.org/badges/washdata)](https://cran.r-project.org/package=washdata)
 [![CRAN](http://cranlogs.r-pkg.org/badges/grand-total/washdata)](https://cran.r-project.org/package=washdata)
 [![R-CMD-check](https://github.com/katilingban/washdata/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/katilingban/washdata/actions/workflows/R-CMD-check.yaml)
