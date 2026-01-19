@@ -1,0 +1,141 @@
+# --------------------------------------------
+# CITATION file created with {cffr} R package
+# See also: https://docs.ropensci.org/cffr/
+# --------------------------------------------
+ 
+cff-version: 1.2.0
+message: 'To cite package "washdata" in publications use:'
+type: software
+license: CC0-1.0
+title: 'washdata: Urban Water and Sanitation Survey Dataset'
+version: 0.1.5
+doi: 10.5281/zenodo.4058890
+identifiers:
+- type: doi
+  value: 10.32614/CRAN.package.washdata
+- type: url
+  value: https://katilingban.io/washdata/
+abstract: Urban water and sanitation survey dataset collected by Water and Sanitation
+  for the Urban Poor (WSUP) with technical support from Valid International. These
+  citywide surveys have been collecting data allowing water and sanitation service
+  levels across the entire city to be characterised, while also allowing more detailed
+  data to be collected in areas of the city of particular interest. These surveys
+  are intended to generate useful information for others working in the water and
+  sanitation sector. Current release version includes datasets collected from a survey
+  conducted in Dhaka, Bangladesh in March 2017. This survey in Dhaka is one of a series
+  of surveys to be conducted by WSUP in various cities in which they operate including
+  Accra, Ghana; Nakuru, Kenya; Antananarivo, Madagascar; Maputo, Mozambique; and,
+  Lusaka, Zambia. This package will be updated once the surveys in other cities are
+  completed and datasets have been made available.
+authors:
+- family-names: Guevarra
+  given-names: Ernest
+  email: ernestgmd@gmail.com
+preferred-citation:
+  type: manual
+  title: 'washdata: Urban Water and Sanitation Survey Dataset'
+  authors:
+  - name: Ernest Guevarra
+  year: '2026'
+  notes: R package version 0.1.5
+  url: https://katilingban.io/washdata/
+  doi: 10.5281/zenodo.4058890
+repository: https://CRAN.R-project.org/package=washdata
+repository-code: https://github.com/katilingban/washdata
+url: https://github.com/katilingban/washdata/
+contact:
+- family-names: Guevarra
+  given-names: Ernest
+  email: ernestgmd@gmail.com
+keywords:
+- dataset
+- sanitation
+- urban
+- wash
+- water
+references:
+- type: software
+  title: 'R: A Language and Environment for Statistical Computing'
+  notes: Depends
+  url: https://www.R-project.org/
+  authors:
+  - name: R Core Team
+  institution:
+    name: R Foundation for Statistical Computing
+    address: Vienna, Austria
+  year: '2026'
+  version: '>= 2.10'
+- type: software
+  title: knitr
+  abstract: 'knitr: A General-Purpose Package for Dynamic Report Generation in R'
+  notes: Suggests
+  url: https://yihui.org/knitr/
+  repository: https://CRAN.R-project.org/package=knitr
+  authors:
+  - family-names: Xie
+    given-names: Yihui
+    email: xie@yihui.name
+    orcid: https://orcid.org/0000-0003-0645-5666
+  year: '2026'
+  doi: 10.32614/CRAN.package.knitr
+- type: software
+  title: rmarkdown
+  abstract: 'rmarkdown: Dynamic Documents for R'
+  notes: Suggests
+  url: https://pkgs.rstudio.com/rmarkdown/
+  repository: https://CRAN.R-project.org/package=rmarkdown
+  authors:
+  - family-names: Allaire
+    given-names: JJ
+    email: jj@posit.co
+  - family-names: Xie
+    given-names: Yihui
+    email: xie@yihui.name
+    orcid: https://orcid.org/0000-0003-0645-5666
+  - family-names: Dervieux
+    given-names: Christophe
+    email: cderv@posit.co
+    orcid: https://orcid.org/0000-0003-4474-2498
+  - family-names: McPherson
+    given-names: Jonathan
+    email: jonathan@posit.co
+  - family-names: Luraschi
+    given-names: Javier
+  - family-names: Ushey
+    given-names: Kevin
+    email: kevin@posit.co
+  - family-names: Atkins
+    given-names: Aron
+    email: aron@posit.co
+  - family-names: Wickham
+    given-names: Hadley
+    email: hadley@posit.co
+  - family-names: Cheng
+    given-names: Joe
+    email: joe@posit.co
+  - family-names: Chang
+    given-names: Winston
+    email: winston@posit.co
+  - family-names: Iannone
+    given-names: Richard
+    email: rich@posit.co
+    orcid: https://orcid.org/0000-0003-3925-190X
+  year: '2026'
+  doi: 10.32614/CRAN.package.rmarkdown
+- type: software
+  title: spelling
+  abstract: 'spelling: Tools for Spell Checking in R'
+  notes: Suggests
+  url: https://ropensci.r-universe.dev/spelling
+  repository: https://CRAN.R-project.org/package=spelling
+  authors:
+  - family-names: Ooms
+    given-names: Jeroen
+    email: jeroenooms@gmail.com
+    orcid: https://orcid.org/0000-0002-4035-0289
+  - family-names: Hester
+    given-names: Jim
+    email: james.hester@rstudio.com
+  year: '2026'
+  doi: 10.32614/CRAN.package.spelling
+

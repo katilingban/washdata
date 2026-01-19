@@ -3,8 +3,8 @@ bibentry(
   header   = "To cite washdata in publications use:",
   title    = "washdata: Urban Water and Sanitation Survey Dataset",
   author   = person("Ernest Guevarra"),
-  year     = "2024",
-  note     = "R package version 0.1.4",
+  year     = "2026",
+  note     = "R package version 0.1.5",
   url      = "https://katilingban.io/washdata/",
   doi      = "10.5281/zenodo.4058890"
 )

@@ -8,8 +8,18 @@ development:
 template:
   bootstrap: 5
   bootswatch: sandstone
-  theme: haddock
-  ganalytics: #
+  theme: breeze-light
+  includes:
+    in_header: |
+      <!-- Google tag (gtag.js) -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-46N7W3BK49"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-46N7W3BK49');
+      </script>
 
 home:
   links:
@@ -18,19 +28,19 @@ home:
 
 navbar:
   bg: primary
-  type: light
+  type: dark
   structure:
     left:  [home, intro, reference, articles, news]
-    right: [mastodon, linkedin, github]
+    right: [search, mastodon, bluesky, linkedin, github]
   components:
-    # articles:
-    #   text: Articles
-    #   menu:
-    #   - text: "Africa CDC"
-    #     href: articles/africa-cdc.html
     mastodon:
       icon: "fab fa-mastodon fa-lg"
+      aria-label: Mastodon
       href: https://fosstodon.org/@katilingban
+    bluesky:
+      icon: "fab fa-bluesky fa-lg"
+      aria-label: Bluesky
+      href: https://bsky.app/profile/katilingban.io
     linkedin:
       icon: "fab fa-linkedin fa-lg"
       href: https://www.linkedin.com/company/katilingban
