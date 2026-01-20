@@ -1,17 +1,38 @@
 ## Release summary
-This is the third release of `washdata`. It provides general documentation and
-formatting updates.
+This is the fourth release of `washdata`. It provides general maintenance and upkeep changes and updates.
 
 ## Test environments
-* local ubuntu 22.04 install, R 4.3.3
-* macos-latest (on GitHub Actions), release
-* windows-latest (on GitHub Actions), release
-* ubuntu-latest (on GitHub Actions), release, devel, and oldrelease
-* mac-builder (release)
-* win-builder (devel, release, oldrelease)
-* rhub (windows-devel, fedora-devel, linux-devel, macos-devel)
+* local OS X install, R 4.5.2
+* local ubuntu 22.04 install, R 4.5.2
+* win-builder (devel, release, and old release)
+* github actions windows-latest, r: release
+* github actions macOS-latest, r: release
+* github actions ubuntu-24.04, r: release, devel, old release
+* rhub windows-latest r devel
+* rhub ubuntu 24.04 r devel
+* rhub macos r devel
+* rhub macos-arm64 r devel
+* macbuilder (devel)
 
 ## R CMD check results
+
+### Local checks
+
+0 errors | 0 warnings | 0 notes
+
+### win-builder checks
+
+0 errors | 0 warnings | 0 notes
+
+### GitHub Actions checks
+
+0 errors | 0 warnings | 0 notes
+
+### rhub checks
+
+0 errors | 0 warnings | 0 notes
+
+### macbuilder checks
 
 0 errors | 0 warnings | 0 notes
 

@@ -5,14 +5,25 @@
 
 <!-- badges: start -->
 
+[![Project Status: Active – The project has reached a stable, usable
+state and is being actively
+developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+[![Lifecycle:
+stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
 [![CRAN
 status](https://www.r-pkg.org/badges/version/washdata)](https://CRAN.R-project.org/package=washdata)
-[![CRAN](https://img.shields.io/cran/l/washdata.svg)](https://github.com/katilingban/washdata/blob/master/LICENSE.md)
+[![cran
+checks](https://badges.cranchecks.info/worst/washdata.svg)](https://cran.r-project.org/web/checks/check_results_washdata.html)
+[![CRAN](https://img.shields.io/cran/l/washdata.svg)](https://github.com/katilingban/washdata/blob/main/LICENSE.md)
 [![CRAN](http://cranlogs.r-pkg.org/badges/washdata)](https://cran.r-project.org/package=washdata)
 [![CRAN](http://cranlogs.r-pkg.org/badges/grand-total/washdata)](https://cran.r-project.org/package=washdata)
 [![R-CMD-check](https://github.com/katilingban/washdata/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/katilingban/washdata/actions/workflows/R-CMD-check.yaml)
+[![test-coverage](https://github.com/katilingban/washdata/actions/workflows/test-coverage.yaml/badge.svg)](https://github.com/katilingban/washdata/actions/workflows/test-coverage.yaml)
+[![Codecov test
+coverage](https://codecov.io/gh/katilingban/washdata/graph/badge.svg)](https://app.codecov.io/gh/katilingban/washdata)
 [![CodeFactor](https://www.codefactor.io/repository/github/katilingban/washdata/badge)](https://www.codefactor.io/repository/github/katilingban/washdata)
 [![DOI](https://zenodo.org/badge/115544360.svg)](https://zenodo.org/doi/10.5281/zenodo.4058889)
+[![DOI](https://img.shields.io/badge/DOI-10.32614/CRAN.package.washdata-blue)](https://doi.org/10.32614/CRAN.package.washdata)
 <!-- badges: end -->
 
 This package contains four datasets from an urban water and sanitation
@@ -54,12 +65,26 @@ To install the package, issue the following commands in R:
 install.packages("washdata")
 ```
 
+<div class="package-devel">
+
 Install development version of the package via GitHub:
 
 ``` r
-# if (!require) remotes install.packages("remotes")
-remotes::install_github("katilingban/washdata")
+# if (!require(pak)) install.packages("pak")
+pak::pak("katilingban/washdata")
 ```
+
+You can also install the package through the [Katilingban R
+Universe](https://katilingban.r-universe.dev) with:
+
+``` r
+install.packages(
+  "washdata",
+  repos = c('https://katilingban.r-universe.dev', 'https://cloud.r-project.org')
+)
+```
+
+</div>
 
 ## Citation
 
@@ -71,9 +96,9 @@ follows:
 citation("washdata")
 #> To cite washdata in publications use:
 #> 
-#>   Ernest Guevarra (2024). _washdata: Urban Water and Sanitation Survey
+#>   Ernest Guevarra (2026). _washdata: Urban Water and Sanitation Survey
 #>   Dataset_. doi:10.5281/zenodo.4058890
-#>   <https://doi.org/10.5281/zenodo.4058890>, R package version 0.1.4,
+#>   <https://doi.org/10.5281/zenodo.4058890>, R package version 0.1.5,
 #>   <https://katilingban.io/washdata/>.
 #> 
 #> A BibTeX entry for LaTeX users is
@@ -81,8 +106,8 @@ citation("washdata")
 #>   @Manual{,
 #>     title = {washdata: Urban Water and Sanitation Survey Dataset},
 #>     author = {{Ernest Guevarra}},
-#>     year = {2024},
-#>     note = {R package version 0.1.4},
+#>     year = {2026},
+#>     note = {R package version 0.1.5},
 #>     url = {https://katilingban.io/washdata/},
 #>     doi = {10.5281/zenodo.4058890},
 #>   }
