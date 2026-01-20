@@ -55,41 +55,36 @@ prioritise government investment and policy change, and if WASH service
 providers are assisted to radically enhance their capacity to deliver
 effectively on that investment.
 
-## [Valid International](http://www.validinternational.org)
+## Valid International
 
-[Valid International (Valid)](http://www.validinternational.org) is a
-limited company registered in the UK. The company was founded by Drs
-Steve Collins and Alistair Hallam in 1999 to improve the quality, impact
-and accountability of global health and nutrition interventions.
-[Valid](http://www.validinternational.org) pioneered the Community-based
-Management of Acute Malnutrition (CMAM) model for addressing Severe
-Acute Malnutrition (SAM) at scale as well as the local production of
-Ready to Use Therapeutic Food (RUTF), and was the central force behind
-the advocacy leading to the endorsement of the model by the UN and
-multiple national governments in 2007. To date, the approach has been
-adopted in over 60 countries worldwide.
+Valid International (Valid) is a limited company registered in the UK.
+The company was founded by Drs Steve Collins and Alistair Hallam in 1999
+to improve the quality, impact and accountability of global health and
+nutrition interventions. Valid pioneered the Community-based Management
+of Acute Malnutrition (CMAM) model for addressing Severe Acute
+Malnutrition (SAM) at scale as well as the local production of Ready to
+Use Therapeutic Food (RUTF), and was the central force behind the
+advocacy leading to the endorsement of the model by the UN and multiple
+national governments in 2007. To date, the approach has been adopted in
+over 60 countries worldwide.
 
-Over the past ten years, [Valid
-International](http://www.validinternational.org) has been the primary
+Over the past ten years, Valid International has been the primary
 provider of technical services for the set-up, training and monitoring
 and evaluation of CMAM programmes all over the world. As part of this,
-[Valid International](http://www.validinternational.org) has developed
-various tools and methods that facilitate the provision of these
-services. For CMAM setup and training,
-[Valid](http://www.validinternational.org) has published a field manual
-for CMAM[¹](#fn1) that gives detailed guidance for the set up and
-implementation of CMAM. In addition,
-[Valid](http://www.validinternational.org) has supported the development
-of CMAM training modules with support and funding from FANTA[²](#fn2).
+Valid International has developed various tools and methods that
+facilitate the provision of these services. For CMAM setup and training,
+Valid has published a field manual for CMAM[¹](#fn1) that gives detailed
+guidance for the set up and implementation of CMAM. In addition, Valid
+has supported the development of CMAM training modules with support and
+funding from FANTA[²](#fn2).
 
-[Valid International](http://www.validinternational.org)’s assessment
-arm **Valid Measures** started work 15 years ago to address the urgent
-need for a survey method that could accurately measure the coverage of
-selective feeding programmes such as CMAM. We have now developed several
-innovative approaches for needs assessment and monitoring and evaluation
-of the coverage and effectiveness of nutrition interventions, including
-the `Simple Spatial Survey Method (S3M)`,
-`Rapid Assessment Method (RAM)`,
+Valid International’s assessment arm **Valid Measures** started work 15
+years ago to address the urgent need for a survey method that could
+accurately measure the coverage of selective feeding programmes such as
+CMAM. We have now developed several innovative approaches for needs
+assessment and monitoring and evaluation of the coverage and
+effectiveness of nutrition interventions, including the
+`Simple Spatial Survey Method (S3M)`, `Rapid Assessment Method (RAM)`,
 `Semi-quantitative Evaluation of Access and Coverage (SQUEAC)`, and
 `Simplified Lot Quality Assurance Sampling Evaluation of Access and Coverage (SLEAC)`.[³](#fn3)
 Taken together, these approaches have improved assessment outputs over
@@ -117,15 +112,14 @@ particular interest to WSUP. These surveys are intended to generate
 useful information for others working in the sector including the
 municipality, regulator and local utilities.
 
-In support of these citywide surveys, [Valid
-International](http://www.validinternational.org) has been contracted to
-provide technical support with the design of the citywide surveys, with
-particular focus on the technical design of variable density sampling
-approaches that enable a general characterisation of the entire city,
-while allowing higher-resolution data to be obtained in areas of
-specific WSUP interest. This should be achieved while minimising the
-sample size as far as possible provided that it retains the ability to
-generate statistically significant conclusions.
+In support of these citywide surveys, Valid International has been
+contracted to provide technical support with the design of the citywide
+surveys, with particular focus on the technical design of variable
+density sampling approaches that enable a general characterisation of
+the entire city, while allowing higher-resolution data to be obtained in
+areas of specific WSUP interest. This should be achieved while
+minimising the sample size as far as possible provided that it retains
+the ability to generate statistically significant conclusions.
 
 ## WSUP information requirements and other survey design considerations
 
@@ -623,16 +617,14 @@ produced during and after the survey process. This will help in
 producing more nuanced guidelines on other approaches to stage 2
 sampling.
 
-## Endnotes
-
 ------------------------------------------------------------------------
 
 1.  Valid International, 2006. Community-based Therapeutic Care (CTC): A
-    Field Manual, Oxford: Valid International. Available at
-    <https://www.fantaproject.org/sites/default/files/resources/CTC-Field-Manual-Oct2006-508.pdf>
+    Field Manual, Oxford: Valid International.
 
-2.  see
-    <https://www.fantaproject.org/focus-areas/nutrition-emergencies-mam/cmam-training>
+2.  see Food and Nutrition Technical Assistance III Project
+    (FANTA). 2018. Training Guide for Community-Based Management of
+    Acute Malnutrition (CMAM). Washington, DC: FHI 360/FANTA
 
 3.  **RAM** is a quick, simple and low-cost survey method to assess and
     monitor individual datasets for multiple health and nutrition
@@ -717,9 +709,9 @@ sampling.
     maps are also made available through the Humanitarian Data Exchange.
 
 17. The best openly available sources for this map data are from the
-    WorldPop project (<https://www.worldpop.org>) and the Global
-    Rural-Urban Mapping Project or GRUMP
-    (<https://sedac.ciesin.columbia.edu/data/collection/grump-v1>).
+    [WorldPop project](https://www.worldpop.org) and the [Global
+    Rural-Urban Mapping Project or
+    GRUMP](https://www.earthdata.nasa.gov/data/catalog/sedac-ciesin-sedac-grumpv1-ext-1.00).
 
 18. For most cities,this can be available from OpenStreetMap or OSM
     (<https://www.openstreetmap.org>). Google Earth can also be used to

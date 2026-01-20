@@ -42,8 +42,18 @@ install.packages("washdata")
 Install development version of the package via GitHub:
 
 ``` r
-# if (!require) remotes install.packages("remotes")
-remotes::install_github("katilingban/washdata")
+# if (!require(pak)) install.packages("pak")
+pak::pak("katilingban/washdata")
+```
+
+You can also install the package through the [Katilingban R
+Universe](https://katilingban.r-universe.dev) with:
+
+``` r
+install.packages(
+  "washdata",
+  repos = c('https://katilingban.r-universe.dev', 'https://cloud.r-project.org')
+)
 ```
 
 ## Citation
@@ -57,9 +67,9 @@ follows:
 citation("washdata")
 #> To cite washdata in publications use:
 #> 
-#>   Ernest Guevarra (2024). _washdata: Urban Water and Sanitation Survey
+#>   Ernest Guevarra (2026). _washdata: Urban Water and Sanitation Survey
 #>   Dataset_. doi:10.5281/zenodo.4058890
-#>   <https://doi.org/10.5281/zenodo.4058890>, R package version 0.1.4,
+#>   <https://doi.org/10.5281/zenodo.4058890>, R package version 0.1.5,
 #>   <https://katilingban.io/washdata/>.
 #> 
 #> A BibTeX entry for LaTeX users is
@@ -67,8 +77,8 @@ citation("washdata")
 #>   @Manual{,
 #>     title = {washdata: Urban Water and Sanitation Survey Dataset},
 #>     author = {{Ernest Guevarra}},
-#>     year = {2024},
-#>     note = {R package version 0.1.4},
+#>     year = {2026},
+#>     note = {R package version 0.1.5},
 #>     url = {https://katilingban.io/washdata/},
 #>     doi = {10.5281/zenodo.4058890},
 #>   }

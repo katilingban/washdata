@@ -2,6 +2,12 @@
 
 ## washdata (development version)
 
+## washdata 0.1.5
+
+CRAN release: 2026-01-19
+
+- general maintenance and upkeep changes and updates
+
 ## washdata 0.1.4
 
 CRAN release: 2024-04-12

@@ -17,16 +17,23 @@
 <link href="../deps/font-awesome-6.5.2/css/v4-shims.min.css" rel="stylesheet">
 <script src="../deps/headroom-0.11.0/headroom.min.js"></script><script src="../deps/headroom-0.11.0/jQuery.headroom.min.js"></script><script src="../deps/bootstrap-toc-1.0.1/bootstrap-toc.min.js"></script><script src="../deps/clipboard.js-2.0.11/clipboard.min.js"></script><script src="../deps/search-1.0.0/autocomplete.jquery.min.js"></script><script src="../deps/search-1.0.0/fuse.min.js"></script><script src="../deps/search-1.0.0/mark.min.js"></script><!-- pkgdown --><script src="../pkgdown.js"></script><meta property="og:title" content="Urban Water and Sanitation Survey Dataset">
 <meta name="robots" content="noindex">
+<!-- Google tag (gtag.js) --><script async src="https://www.googletagmanager.com/gtag/js?id=G-46N7W3BK49"></script><script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-46N7W3BK49');
+</script>
 </head>
 <body>
     <a href="#main" class="visually-hidden-focusable">Skip to contents</a>
 
 
-    <nav class="navbar navbar-expand-lg fixed-top bg-primary" data-bs-theme="light" aria-label="Site navigation"><div class="container">
+    <nav class="navbar navbar-expand-lg fixed-top bg-primary" data-bs-theme="dark" aria-label="Site navigation"><div class="container">
 
     <a class="navbar-brand me-2" href="../index.html">washdata</a>
 
-    <small class="nav-text text-danger me-auto" data-bs-toggle="tooltip" data-bs-placement="bottom" title="In-development version">0.1.4.9000</small>
+    <small class="nav-text text-danger me-auto" data-bs-toggle="tooltip" data-bs-placement="bottom" title="In-development version">0.1.5.9000</small>
 
 
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -40,7 +47,11 @@
 <li class="nav-item"><a class="nav-link" href="../news/index.html">Changelog</a></li>
       </ul>
 <ul class="navbar-nav">
-<li class="nav-item"><a class="external-link nav-link" href="https://fosstodon.org/@katilingban"><span class="fa fab fa-mastodon fa-lg"></span></a></li>
+<li class="nav-item"><form class="form-inline" role="search">
+ <input class="form-control" type="search" name="search-input" id="search-input" autocomplete="off" aria-label="Search site" placeholder="Search for" data-search-index="../search.json">
+</form></li>
+<li class="nav-item"><a class="external-link nav-link" href="https://fosstodon.org/@katilingban" aria-label="Mastodon"><span class="fa fab fa-mastodon fa-lg"></span></a></li>
+<li class="nav-item"><a class="external-link nav-link" href="https://bsky.app/profile/katilingban.io" aria-label="Bluesky"><span class="fa fab fa-bluesky fa-lg"></span></a></li>
 <li class="nav-item"><a class="external-link nav-link" href="https://www.linkedin.com/company/katilingban"><span class="fa fab fa-linkedin fa-lg"></span></a></li>
 <li class="nav-item"><a class="external-link nav-link" href="https://github.com/katilingban"><span class="fa fab fa-github fa-lg"></span></a></li>
       </ul>
@@ -59,7 +70,7 @@
                         <h4 data-toc-skip class="author">Ernest
 Guevarra</h4>
             
-            <h4 data-toc-skip class="date">2026-01-19</h4>
+            <h4 data-toc-skip class="date">2026-01-20</h4>
       
       <small class="dont-index">Source: <a href="https://github.com/katilingban/washdata/blob/main/vignettes/washdata.Rmd" class="external-link"><code>vignettes/washdata.Rmd</code></a></small>
       <div class="d-none name"><code>washdata.Rmd</code></div>
@@ -125,40 +136,36 @@ policy change, and if WASH service providers are assisted to radically
 enhance their capacity to deliver effectively on that investment.</p>
 </div>
 <div class="section level2">
-<h2 id="valid-international">
-<a href="http://www.validinternational.org" class="external-link">Valid
-International</a><a class="anchor" aria-label="anchor" href="#valid-international"></a>
+<h2 id="valid-international">Valid International<a class="anchor" aria-label="anchor" href="#valid-international"></a>
 </h2>
-<p><a href="http://www.validinternational.org" class="external-link">Valid International
-(Valid)</a> is a limited company registered in the UK. The company was
-founded by Drs Steve Collins and Alistair Hallam in 1999 to improve the
-quality, impact and accountability of global health and nutrition
-interventions. <a href="http://www.validinternational.org" class="external-link">Valid</a>
-pioneered the Community-based Management of Acute Malnutrition (CMAM)
-model for addressing Severe Acute Malnutrition (SAM) at scale as well as
-the local production of Ready to Use Therapeutic Food (RUTF), and was
-the central force behind the advocacy leading to the endorsement of the
-model by the UN and multiple national governments in 2007. To date, the
-approach has been adopted in over 60 countries worldwide.</p>
-<p>Over the past ten years, <a href="http://www.validinternational.org" class="external-link">Valid International</a> has
-been the primary provider of technical services for the set-up, training
-and monitoring and evaluation of CMAM programmes all over the world. As
-part of this, <a href="http://www.validinternational.org" class="external-link">Valid
-International</a> has developed various tools and methods that
+<p>Valid International (Valid) is a limited company registered in the
+UK. The company was founded by Drs Steve Collins and Alistair Hallam in
+1999 to improve the quality, impact and accountability of global health
+and nutrition interventions. Valid pioneered the Community-based
+Management of Acute Malnutrition (CMAM) model for addressing Severe
+Acute Malnutrition (SAM) at scale as well as the local production of
+Ready to Use Therapeutic Food (RUTF), and was the central force behind
+the advocacy leading to the endorsement of the model by the UN and
+multiple national governments in 2007. To date, the approach has been
+adopted in over 60 countries worldwide.</p>
+<p>Over the past ten years, Valid International has been the primary
+provider of technical services for the set-up, training and monitoring
+and evaluation of CMAM programmes all over the world. As part of this,
+Valid International has developed various tools and methods that
 facilitate the provision of these services. For CMAM setup and training,
-<a href="http://www.validinternational.org" class="external-link">Valid</a> has published a
-field manual for CMAM<a class="footnote-ref" tabindex="0" data-bs-toggle="popover" data-bs-content='&lt;p&gt;Valid International, 2006. Community-based Therapeutic
-Care (CTC): A Field Manual, Oxford: Valid International. Available at &lt;a href="https://www.fantaproject.org/sites/default/files/resources/CTC-Field-Manual-Oct2006-508.pdf" class="external-link uri"&gt;https://www.fantaproject.org/sites/default/files/resources/CTC-Field-Manual-Oct2006-508.pdf&lt;/a&gt;&lt;/p&gt;'><sup>1</sup></a> that gives detailed guidance for the set up
-and implementation of CMAM. In addition, <a href="http://www.validinternational.org" class="external-link">Valid</a> has supported the
-development of CMAM training modules with support and funding from
-FANTA<a class="footnote-ref" tabindex="0" data-bs-toggle="popover" data-bs-content='&lt;p&gt;see &lt;a href="https://www.fantaproject.org/focus-areas/nutrition-emergencies-mam/cmam-training" class="external-link uri"&gt;https://www.fantaproject.org/focus-areas/nutrition-emergencies-mam/cmam-training&lt;/a&gt;&lt;/p&gt;'><sup>2</sup></a>.</p>
-<p><a href="http://www.validinternational.org" class="external-link">Valid International</a>’s
-assessment arm <strong>Valid Measures</strong> started work 15 years ago
-to address the urgent need for a survey method that could accurately
-measure the coverage of selective feeding programmes such as CMAM. We
-have now developed several innovative approaches for needs assessment
-and monitoring and evaluation of the coverage and effectiveness of
-nutrition interventions, including the
+Valid has published a field manual for CMAM<a class="footnote-ref" tabindex="0" data-bs-toggle="popover" data-bs-content="&lt;p&gt;Valid International, 2006. Community-based Therapeutic
+Care (CTC): A Field Manual, Oxford: Valid International.&lt;/p&gt;"><sup>1</sup></a> that gives detailed
+guidance for the set up and implementation of CMAM. In addition, Valid
+has supported the development of CMAM training modules with support and
+funding from FANTA<a class="footnote-ref" tabindex="0" data-bs-toggle="popover" data-bs-content="&lt;p&gt;see Food and Nutrition Technical Assistance III Project
+(FANTA). 2018. Training Guide for Community-Based Management of Acute
+Malnutrition (CMAM). Washington, DC: FHI 360/FANTA&lt;/p&gt;"><sup>2</sup></a>.</p>
+<p>Valid International’s assessment arm <strong>Valid Measures</strong>
+started work 15 years ago to address the urgent need for a survey method
+that could accurately measure the coverage of selective feeding
+programmes such as CMAM. We have now developed several innovative
+approaches for needs assessment and monitoring and evaluation of the
+coverage and effectiveness of nutrition interventions, including the
 <code>Simple Spatial Survey Method (S3M)</code>,
 <code>Rapid Assessment Method (RAM)</code>,
 <code>Semi-quantitative Evaluation of Access and Coverage (SQUEAC)</code>,
@@ -213,15 +220,14 @@ allowing more detailed data to be collected in areas of the city of
 particular interest to WSUP. These surveys are intended to generate
 useful information for others working in the sector including the
 municipality, regulator and local utilities.</p>
-<p>In support of these citywide surveys, <a href="http://www.validinternational.org" class="external-link">Valid International</a> has
-been contracted to provide technical support with the design of the
-citywide surveys, with particular focus on the technical design of
-variable density sampling approaches that enable a general
-characterisation of the entire city, while allowing higher-resolution
-data to be obtained in areas of specific WSUP interest. This should be
-achieved while minimising the sample size as far as possible provided
-that it retains the ability to generate statistically significant
-conclusions.</p>
+<p>In support of these citywide surveys, Valid International has been
+contracted to provide technical support with the design of the citywide
+surveys, with particular focus on the technical design of variable
+density sampling approaches that enable a general characterisation of
+the entire city, while allowing higher-resolution data to be obtained in
+areas of specific WSUP interest. This should be achieved while
+minimising the sample size as far as possible provided that it retains
+the ability to generate statistically significant conclusions.</p>
 </div>
 <div class="section level2">
 <h2 id="wsup-information-requirements-and-other-survey-design-considerations">WSUP information requirements and other survey design
@@ -660,8 +666,9 @@ World Food Programme also maintain their own repositories but most of
 their maps are also made available through the Humanitarian Data
 Exchange.&lt;/p&gt;'><sup>16</sup></a>;</p></li>
 <li><p>High resolution gridded population maps<a class="footnote-ref" tabindex="0" data-bs-toggle="popover" data-bs-content='&lt;p&gt;The best openly available sources for this map data are
-from the WorldPop project (&lt;a href="https://www.worldpop.org" class="external-link uri"&gt;https://www.worldpop.org&lt;/a&gt;) and the Global Rural-Urban
-Mapping Project or GRUMP (&lt;a href="https://sedac.ciesin.columbia.edu/data/collection/grump-v1" class="external-link uri"&gt;https://sedac.ciesin.columbia.edu/data/collection/grump-v1&lt;/a&gt;).&lt;/p&gt;'><sup>17</sup></a>; and,</p></li>
+from the &lt;a href="https://www.worldpop.org" class="external-link"&gt;WorldPop project&lt;/a&gt; and the
+&lt;a href="https://www.earthdata.nasa.gov/data/catalog/sedac-ciesin-sedac-grumpv1-ext-1.00" class="external-link"&gt;Global
+Rural-Urban Mapping Project or GRUMP&lt;/a&gt;.&lt;/p&gt;'><sup>17</sup></a>; and,</p></li>
 <li><p>Map data on roads, buildings, residential areas, landuse and
 places of interest for the city<a class="footnote-ref" tabindex="0" data-bs-toggle="popover" data-bs-content='&lt;p&gt;For most cities,this can be available from
 OpenStreetMap or OSM (&lt;a href="https://www.openstreetmap.org" class="external-link uri"&gt;https://www.openstreetmap.org&lt;/a&gt;). Google Earth can also be
@@ -724,10 +731,6 @@ document produced during and after the survey process. This will help in
 producing more nuanced guidelines on other approaches to stage 2
 sampling.</p>
 </div>
-</div>
-<div class="section level2">
-<h2 id="endnotes">Endnotes<a class="anchor" aria-label="anchor" href="#endnotes"></a>
-</h2>
 </div>
 
   </main><aside class="col-md-3"><nav id="toc" aria-label="Table of contents"><h2>On this page</h2>
