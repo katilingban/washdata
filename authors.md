@@ -11,7 +11,7 @@
 ## Citation
 
 Source:
-[`inst/CITATION`](https://github.com/katilingban/washdata/blob/main/inst/CITATION)
+[`inst/CITATION`](https://github.com/katilingban/washdata/blob/v0.1.5/inst/CITATION)
 
 Ernest Guevarra (2026). *washdata: Urban Water and Sanitation Survey
 Dataset*.
